@@ -5,10 +5,10 @@ Enter any city name to view temperature, wind speed, and weather condition.
 
 ### ✨ Features
 
-• City search<b>
-• Temperature in °C<b>
-• Wind speed<b>
-• Weather description<b>
+• City search<br>
+• Temperature in °C<br>
+• Wind speed<br>
+• Weather description<br>
 • Clean and simple UI
 
 ### 📸 Screenshot
@@ -17,9 +17,9 @@ Enter any city name to view temperature, wind speed, and weather condition.
 
 ### 🛠️ Used
 
-• HTML<b>
-• CSS<b>
-• JavaScript<b>
+• HTML<br>
+• CSS<br>
+• JavaScript<br>
 • OpenWeatherMap API
 
 ### ▶️ How to Use
